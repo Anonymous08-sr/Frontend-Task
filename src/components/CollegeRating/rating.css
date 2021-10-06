@@ -1,0 +1,19 @@
+.college-rating {
+    width: 0.75rem;
+    height: 0.688rem;
+    margin: 1.25rem 0.125rem 0.438rem 0.688rem;
+  }
+  
+  .checked {
+    color: #444;
+  }
+  
+  .unchecked {
+    color: #444;
+    opacity: 0.5;
+  }
+  
+  .material-icons-outlined {
+    font-size: 0.8rem;
+  }
+  
